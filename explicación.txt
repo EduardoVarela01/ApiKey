@@ -1,0 +1,3 @@
+Este código solicita la "Imagen astronómica del día" de la NASA, extrae la información relevante de la respuesta JSON 
+y la muestra en una página web. 
+La información incluye la imagen astronómica en sí, junto con su título, descripción y fecha.
